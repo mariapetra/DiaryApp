@@ -1,0 +1,42 @@
+body {
+    margin: 20px;
+    padding: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT';
+    display: grid;
+    justify-content: center;
+
+}
+
+#title {
+    color: rgb(8, 45, 114);
+    margin-bottom: 1em;
+    text-align: center;  
+}
+
+.entry-textbox {
+    background-color: rgb(184, 233, 248);
+    color: rgb(8, 45, 114);
+    width: 20em;
+    height: 10em;
+    padding: 1em;
+    margin-bottom: 0.5em;
+    border: unset;
+    border-radius: 25px;
+
+}
+
+#entryForm .button {
+    border-radius: 25px;
+    padding: 10px 20px;
+    position: absolute;
+    right: 750px;
+    background-color: rgb(184, 233, 248);
+    color: rgb(8, 45, 114);
+    border: unset;
+
+}
+
+.entry-textbox {
+    outline: none; 
+
+}
