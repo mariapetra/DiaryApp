@@ -26,13 +26,12 @@ body {
 }
 
 #entryForm .button {
-    border-radius: 25px;
     padding: 10px 20px;
-    position: absolute;
-    right: 750px;
+    border-left: 50px;
     background-color: rgb(184, 233, 248);
     color: rgb(8, 45, 114);
     border: unset;
+    border-radius: 25px;
 
 }
 
